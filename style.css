@@ -163,7 +163,8 @@ body {
   border-width: 5px;
 }
 
-h2 {
+h2,
+h3 {
   color: blue;
 }
 
